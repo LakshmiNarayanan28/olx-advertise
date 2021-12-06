@@ -1,0 +1,6 @@
+Exception handling priority:
+1 - Local exception handler
+2 - Global exception handler
+3 - @ResponseStatus mentioned inside exception class
+4 - Internal server error with detailed stack trace
+
